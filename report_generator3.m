@@ -7,7 +7,7 @@ Inputs:
    points: numerical vector containing point value of each problem; if not
    provided, score is reported as % for each problem
 
-   penalty: late penalty in % (defaults to 20)
+   penalty: late penalty in % (defaults to 10)
 
    list_of_names: string array containing names of students to include in
    report; defaults to all students
