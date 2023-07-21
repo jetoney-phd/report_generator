@@ -33,10 +33,10 @@ Examples:
 
 function studentStruct = report_generator3(points, penalty, names)
 
-%If late penalty is not supplied, use the default of 20 %
+%If late penalty is not supplied, use the default of 10 %
 
 if nargin < 2 || isempty(penalty)
-    penalty = 20;
+    penalty = 10;
 end
 
     
